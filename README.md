@@ -1,6 +1,6 @@
-# Pairs-Trading-on-Crypto-Spots
-Re-implementation of a popular statistical arbitrage trading technique called pairs trading  strategy on the cryptocurency market
-## Project: Implementation of Pairs Trading Strategy for Crypto Currency Market
+
+## Project: 
+Implementation of Pairs Trading Strategy for Crypto Currency Market
 ## Project Describtion:
  This research serves as a re-implementation of a popular statistical arbitrage trading technique called pairs trading
  strategy on the cryptocurency market. Mostly it follows the trading strategy described in [1] and [2].Like in [2], we
